@@ -5,7 +5,7 @@
 ## Get Help
 
 - **Bug reports & feature requests**: [Open an issue](https://github.com/itsehab/codesail-support/issues/new/choose)
-- **Email**: codesail@ehabfayez.com
+- **Email**: howdy@codesail.app
 
 ## Links
 
